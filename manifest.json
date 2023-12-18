@@ -4,8 +4,8 @@
     "website_url": "https://github.com/thunderstore-io",
     "description": "Modpack for the OWNerds server",
     "dependencies": [
-        "BepInExPack",
-        "MoreCompany",
-        "LateCompany"
+        "BepInEx-BepInExPack-5.4.2100",
+        "notnotnotswipez-MoreCompany-1.7.2",
+        "anormaltwig-LateCompany-1.0.6"
     ]
 }
